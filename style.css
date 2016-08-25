@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.main-container {
+  height: 100vh;
+  width: 100vw;
+  background: url(
+    "https://hd.unsplash.com/photo-1464800959563-472c0567132f") center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+.input-container {
+  height: 60%;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.username {
+
+}
