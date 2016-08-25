@@ -11,13 +11,36 @@ body {
   background-repeat: no-repeat;
 
 }
+input {
+  font-size: 17px;
+  border: none;
+  border-radius: 5px;
+  background: #807F63;
+  color: #fff;
+}
+
 .input-container {
   height: 60%;
+  width: 100%;
   padding: 10px;
   display: flex;
   justify-content: center;
   align-items: center;
+
 }
 .username {
+  padding-right: 5px;
 
+}
+.password {
+  padding-right: 5px;
+}
+.button {
+  border-radius: 5px;
+  border: solid 1px #807F63;
+  color: #807F63;
+  text-align: center;
+  text-decoration: none;
+  font-size: 17px;
+  padding-left: 5px;
 }
